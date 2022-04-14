@@ -14,7 +14,7 @@
         "outputPath": "/Users/Nick/development/workspace/WordleBot/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/Nick/.config/NuGet/NuGet.Config"
+          "/Users/Nick/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -34,6 +34,7 @@
           "targetAlias": "net5.0",
           "dependencies": {
             "FSharp.Core": {
+              "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
               "target": "Package",
               "version": "[5.0.0, )",
               "generatePathProperty": true

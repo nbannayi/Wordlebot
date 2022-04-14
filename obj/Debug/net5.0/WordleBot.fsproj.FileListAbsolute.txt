@@ -26,10 +26,10 @@
 /Users/Nick/development/workspace/WordleBot/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
 /Users/Nick/development/workspace/WordleBot/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
 /Users/Nick/development/workspace/WordleBot/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/Nick/development/workspace/WordleBot/obj/Debug/net5.0/WordleBot.fsproj.AssemblyReference.cache
 /Users/Nick/development/workspace/WordleBot/obj/Debug/net5.0/WordleBot.AssemblyInfoInputs.cache
 /Users/Nick/development/workspace/WordleBot/obj/Debug/net5.0/WordleBot.AssemblyInfo.fs
 /Users/Nick/development/workspace/WordleBot/obj/Debug/net5.0/WordleBot.fsproj.CopyComplete
 /Users/Nick/development/workspace/WordleBot/obj/Debug/net5.0/WordleBot.dll
 /Users/Nick/development/workspace/WordleBot/obj/Debug/net5.0/WordleBot.pdb
 /Users/Nick/development/workspace/WordleBot/obj/Debug/net5.0/WordleBot.genruntimeconfig.cache
-/Users/Nick/development/workspace/WordleBot/obj/Debug/net5.0/WordleBot.fsproj.AssemblyReference.cache
