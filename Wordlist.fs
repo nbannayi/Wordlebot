@@ -110,4 +110,4 @@ module Wordlist =
     /// Get starting word to kick off Wordle game.
     let getStartingWord () =
         let randomIndex = randomSeed.Next(0,startingWordCandidates.Length)
-        startingWordCandidates.[randomIndex]
+        startingWordCandidates.[randomIndex] 
