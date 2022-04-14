@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/Nick/development/workspace/WordleBot/WordleBot.fsproj": {}
+  },
+  "projects": {
+    "/Users/Nick/development/workspace/WordleBot/WordleBot.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Nick/development/workspace/WordleBot/WordleBot.fsproj",
+        "projectName": "WordleBot",
+        "projectPath": "/Users/Nick/development/workspace/WordleBot/WordleBot.fsproj",
+        "packagesPath": "/Users/Nick/.nuget/packages/",
+        "outputPath": "/Users/Nick/development/workspace/WordleBot/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Nick/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[5.0.0, )",
+              "generatePathProperty": true
+            },
+            "canopy": {
+              "target": "Package",
+              "version": "[2.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

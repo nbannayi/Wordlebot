@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{EA788221-9E6F-4343-A0B9-DF2B5ED8A244}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Wordlist.fs">
+    <Files>
+      <File FileName="Wordlist.fs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WordleBot" expanded="True">
+            <Node name="WordleBot" expanded="True">
+              <Node name="Wordlist.fs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WordleBot PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Debugger.DebugSourceFolders>
+    <String>/Users/Nick/Library/Caches/VisualStudio/8.0/Symbols/dotnet/fsharp/da6be68280c89131cdba2045525b80890401defd</String>
+  </Debugger.DebugSourceFolders>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
